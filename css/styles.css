@@ -62,7 +62,7 @@ body {
 }
 
 .header-link:hover,
-.header-link .accent:active,
+.header-link:active,
 .header-link:focus {
   color: #404bbf;
 }
@@ -127,7 +127,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.description-list {
+.description-list-item {
 }
 .description-text {
   font-size: 16px;
